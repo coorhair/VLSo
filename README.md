@@ -18,4 +18,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 2. .NET - https://drive.google.com/open?id=1BqwwmmjtqhR-EqyankDfGSF7mTTcdg4l
 3. Chromium - https://drive.google.com/open?id=1aQepl-BR8-GAZLB4UaoX5caJnGEvZdGF
 4. ES - https://drive.google.com/open?id=1pR4_knZzSBhDKNeavS94cvARYuQY2aTy
-5. VLSo - https://github.com/coorhair/VLSo/releases
+5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.12/vls-setup-4.0.12.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
