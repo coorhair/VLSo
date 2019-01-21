@@ -17,8 +17,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### CẬP NHẬT: kể từ phiên bản v4.0.13 trở đi, VLSo sẽ không yêu cầu cài đặt phần mềm hỗ hợ JRE và ES để các máy cấu hình thấp vẫn có thể chạy được VLSo
 
-<del>1. JRE - https://drive.google.com/open?id=14w8ETZMifN_y_LJOcLnXDQR1fnXEA8H5</del>
+1. <del>JRE - https://drive.google.com/open?id=14w8ETZMifN_y_LJOcLnXDQR1fnXEA8H5</del>
 2. .NET - https://drive.google.com/open?id=1BqwwmmjtqhR-EqyankDfGSF7mTTcdg4l
 3. Chromium - https://drive.google.com/open?id=1aQepl-BR8-GAZLB4UaoX5caJnGEvZdGF
-<del>4. ES - https://drive.google.com/open?id=1pR4_knZzSBhDKNeavS94cvARYuQY2aTy</del>
+4. <del>ES - https://drive.google.com/open?id=1pR4_knZzSBhDKNeavS94cvARYuQY2aTy</del>
 5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.13/vls-setup-4.0.13.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
