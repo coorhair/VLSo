@@ -1,6 +1,11 @@
 # VLSo
 viết sớ tự động VL
 
+## Yêu cầu
+- CPU Kiến trúc x64
+- Windows 7, Windows 8, Windows 10
+- RAM tối thiểu 2GB
+
 ## Hướng dẫn cài đặt
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=m_-e8Duj3Bc
