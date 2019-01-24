@@ -1,5 +1,9 @@
 # VLSo
-viết sớ tự động VL
+viết sớ tự động VL, giới thiệu về phần mềm VLSo 4.x
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dnwT0WXoV0g
+" target="_blank"><img src="http://img.youtube.com/vi/dnwT0WXoV0g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Yêu cầu
 - CPU Kiến trúc x64
@@ -17,6 +21,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=D77035MBHq4
 " target="_blank"><img src="http://img.youtube.com/vi/D77035MBHq4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## Các clip hướng dẫn và các mẹo sử dụng VLSo 4.x được cập nhật thường xuyên tại kênh
+https://www.youtube.com/channel/UC3iFVu2tjq8WIikaWZHmXBQ
 
 ## Link tải VLSo và các phần mềm phụ trợ
 
