@@ -33,4 +33,4 @@ https://www.youtube.com/channel/UC3iFVu2tjq8WIikaWZHmXBQ
 2. .NET - https://drive.google.com/open?id=1BqwwmmjtqhR-EqyankDfGSF7mTTcdg4l
 3. Chromium - https://drive.google.com/open?id=1aQepl-BR8-GAZLB4UaoX5caJnGEvZdGF
 4. <del>ES - https://drive.google.com/open?id=1pR4_knZzSBhDKNeavS94cvARYuQY2aTy</del>
-5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.15/vls-setup-4.0.15.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
+5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.18/vls-setup-4.0.18.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
