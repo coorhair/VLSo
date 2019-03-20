@@ -10,20 +10,24 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Windows 7, Windows 8, Windows 10
 - RAM tối thiểu 2GB
 
-## Hướng dẫn cài đặt
-
+## <del>Hướng dẫn cài đặt</del>
+Video này được chuyển vào link playlist phía dưới
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=m_-e8Duj3Bc
 " target="_blank"><img src="http://img.youtube.com/vi/m_-e8Duj3Bc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## Hướng dẫn đăng kí và kích hoạt
-
+## <del>Hướng dẫn đăng kí và kích hoạt</del>
+Video này được chuyển vào link playlist phía dưới
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=D77035MBHq4
 " target="_blank"><img src="http://img.youtube.com/vi/D77035MBHq4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Các clip hướng dẫn và các mẹo sử dụng VLSo 4.x được cập nhật thường xuyên tại kênh
-https://www.youtube.com/channel/UC3iFVu2tjq8WIikaWZHmXBQ
+<del>https://www.youtube.com/channel/UC3iFVu2tjq8WIikaWZHmXBQ</del>
+
+Tất cả hướng dẫn cài đặt và sử dụng nằm trong playlist này:
+
+https://www.youtube.com/playlist?list=PLZ7Seznp4CXB77v8oSf25NSDaGPEgicxx
 
 ## Link tải VLSo và các phần mềm phụ trợ
 
