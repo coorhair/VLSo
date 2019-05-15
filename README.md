@@ -8,7 +8,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## Yêu cầu
 - CPU Kiến trúc x64
 - Windows 7, Windows 8, Windows 10
-- RAM tối thiểu 2GB
+- RAM tối thiểu 4GB
 
 ## <del>Hướng dẫn cài đặt</del>
 Video (không thể xem) này được chuyển vào link playlist phía dưới
@@ -39,4 +39,4 @@ https://www.youtube.com/playlist?list=PLZ7Seznp4CXB77v8oSf25NSDaGPEgicxx
 2. .NET - https://drive.google.com/open?id=1BqwwmmjtqhR-EqyankDfGSF7mTTcdg4l
 3. Chromium - https://drive.google.com/open?id=1aQepl-BR8-GAZLB4UaoX5caJnGEvZdGF
 4. <del>ES - https://drive.google.com/open?id=1pR4_knZzSBhDKNeavS94cvARYuQY2aTy</del>
-5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.20/vls-setup-4.0.20.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
+5. VLSo - <a href="https://github.com/coorhair/VLSo/releases/download/v4.0.23/vls-setup-4.0.23.exe">bản mới nhất</a> hoặc https://github.com/coorhair/VLSo/releases
