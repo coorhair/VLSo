@@ -1,3 +1,6 @@
+# CẬP NHẬT:
+Dùng thử dịch vụ Sớ Online - viết sớ trực tuyến không cần cài đặt! Đăng kí tài khoản tại https://so.brainhub.vn/register hoặc tìm hiểu thêm tại https://blog.brainhub.vn/2021/03/gioi-thieu-dich-vu-so-online-viet-so-tu.html
+
 # VLSo
 viết sớ tự động VL, giới thiệu về phần mềm VLSo 4.x
 
